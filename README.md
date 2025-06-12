@@ -1,7 +1,7 @@
-Hi 👋 My name is Gian Luca Vitale 
+# Hi 👋 My name is Gian Luca Vitale 
 ---------------------------------
 
-Labor Law, Payroll Auditor, Web App Developer
+## Labor Law, Payroll Auditor, Web App Developer
 ---------------------------------------------
 
 
