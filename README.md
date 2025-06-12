@@ -1,8 +1,5 @@
-Hi 👋 My name is Gian Luca Vitale
-=================================
+<div style="background-color:#004457; color:white; padding:16px; border-radius:8px; text-align:center;"> Hi 👋 My name is Gian Luca Vitale Labor Law, Payroll Auditor, Web App Developer </div>
 
-Labor Law, Payroll Auditor, Web App Developer
----------------------------------------------
 
 A professional with a diverse background spanning law, sales management and union representation, as well as a skilled payroll auditor and legal analist. Ability to deliver results through strategic collaboration, innovation and friendly teamwork. Confident in enhancing code and extremely interested in assessing divergent international legal practices.
 
