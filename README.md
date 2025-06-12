@@ -1,3 +1,5 @@
+<img src="https://via.placeholder.com/1200x200/004457/FFFFFF?text=Bienvenue%20sur%20mon%20profil%20GitHub%20!" alt="banner" />
+
 Hi 👋 My name is Gian Luca Vitale
 =================================
 
