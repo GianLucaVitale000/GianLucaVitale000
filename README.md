@@ -4,7 +4,7 @@
 
 A professional with a diverse background spanning law, sales management and union representation, as well as a skilled payroll auditor and legal analist. Ability to deliver results through strategic collaboration, innovation and friendly teamwork. Confident in enhancing code and extremely interested in assessing divergent international legal practices.
 
-* 🌍  I'm based in Bologna, Italy
+* 🌍  I'm based in Bologna (Italy) and Loire (France)
 * ✉️  You can contact me at [gianluca.vitale@studio.unibo.it](mailto:gianluca.vitale@studio.unibo.it)
 * 🧠  I'm learning Angular and Figma
 * 🤝  I'm open to collaborating on projects developed by companies based in France, Belgium, Luxembourg, Switzerland, especially comparative law projects.
