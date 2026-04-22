@@ -12,7 +12,7 @@ A professional with a diverse background spanning law, sales management and unio
 
 ### 🛠 Tech Stack
 
-![HTML5](https://badgen.net/badge/HTML5/markup/red?icon=html5)
+![HTML5](https://badgen.net/badge/HTML5/Markup/red?icon=html5)
 ![CSS3](https://badgen.net/badge/CSS3/styling/blue?icon=css)
 ![JavaScript](https://badgen.net/badge/JavaScript/scripting/yellow?icon=javascript)
 ![Java](https://badgen.net/badge/Java/backend/orange?icon=java)
@@ -26,9 +26,9 @@ A professional with a diverse background spanning law, sales management and unio
 ![Bootstrap](https://badgen.net/badge/Bootstrap/styling/purple?icon=bootstrap)
 ![Cypress](https://badgen.net/badge/Cypress/testingE2E/green?icon=cypress)
 ![MySQL](https://badgen.net/badge/MySQL/RDBMS/blue?icon=mysql)
-![Redis](https://badgen.net/badge/Redis/nosql/red?icon=redis)
-![Cassandra](https://badgen.net/badge/Cassandra/nosql/blue?icon=apache)
-![MongoDB](https://badgen.net/badge/MongoDB/nosql/green?icon=mongodb)
+![Redis](https://badgen.net/badge/Redis/NoSql/red?icon=redis)
+![Cassandra](https://badgen.net/badge/Cassandra/NoSql/blue?icon=apache)
+![MongoDB](https://badgen.net/badge/MongoDB/NoSql/green?icon=mongodb)
 
 ### ⚙️ Tools
 ![Git](https://badgen.net/badge/Git/Version/orange?icon=git)
