@@ -18,7 +18,7 @@ A professional with a diverse background spanning law, sales management and unio
 ![Java](https://badgen.net/badge/Java/backend/orange?icon=java)
 ![Hibernate](https://badgen.net/badge/Hibernate/ORM/gray?icon=hibernate)
 ![Apache Tomcat](https://badgen.net/badge/Apache%20Tomcat/server/yellow?icon=apache)
-![Spring](https://badgen.net/badge/Spring/framework/green?icon=spring)
+![Spring](https://badgen.net/badge/Spring/framework%20backend/green?icon=spring)
 ![PHP](https://badgen.net/badge/PHP/language/blue?icon=php)
 ![Angular](https://badgen.net/badge/Angular/frontend/red?icon=angular)
 ![PrimeNG](https://badgen.net/badge/PrimeNG/UI/red?icon=prime)
