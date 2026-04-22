@@ -35,7 +35,7 @@ A professional with a diverse background spanning law, sales management and unio
 ![Figma](https://badgen.net/badge/Figma/Design/pink?icon=figma)
 ![Draw.io](https://badgen.net/badge/Draw.io/Diagrams/orange?icon=diagramsdotnet)
 ![LaTeX](https://badgen.net/badge/LaTeX/Typesetting/blue?icon=latex)
-![Obsidian](https://badgen.net/badge/Obsidian/Notes/purple?icon=obsidian)
+![Obsidian](https://badgen.net/badge/Obsidian/Personal%20Knowledge%20Management/purple?icon=obsidian)
 
 ### Socials
 
