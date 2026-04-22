@@ -10,6 +10,33 @@ A professional with a diverse background spanning law, sales management and unio
 
 ### Skills
 
+### 🛠 Tech Stack
+![HTML5](https://badgen.net/badge/HTML5/5/orange)
+![CSS3](https://badgen.net/badge/CSS3/3/blue)
+![JavaScript](https://badgen.net/badge/JavaScript/ES6/yellow)
+![Java](https://badgen.net/badge/Java/17+/red)
+![Hibernate](https://badgen.net/badge/Hibernate/ORM/green)
+![Tomcat](https://badgen.net/badge/Tomcat/Server/blue)
+![Spring](https://badgen.net/badge/Spring/Framework/green)
+![PHP](https://badgen.net/badge/PHP/8+/purple)
+![Angular](https://badgen.net/badge/Angular/v17/red)
+![PrimeNG](https://badgen.net/badge/PrimeNG/UI/orange)
+![Tailwind](https://badgen.net/badge/Tailwind/CSS/blue)
+![Bootstrap](https://badgen.net/badge/Bootstrap/v5/purple)
+![Cypress](https://badgen.net/badge/Cypress/Testing/green)
+![MySQL](https://badgen.net/badge/MySQL/Database/blue)
+![Redis](https://badgen.net/badge/Redis/Cache/red)
+![Cassandra](https://badgen.net/badge/Cassandra/NoSQL/yellow)
+![MongoDB](https://badgen.net/badge/MongoDB/NoSQL/green)
+
+### ⚙️ Tools
+![Git](https://badgen.net/badge/Git/Version/orange)
+![SourceTree](https://badgen.net/badge/SourceTree/GUI/blue)
+![Figma](https://badgen.net/badge/Figma/Design/pink)
+![Draw.io](https://badgen.net/badge/Draw.io/Diagrams/orange)
+![LaTeX](https://badgen.net/badge/LaTeX/Typesetting/blue)
+![Obsidian](https://badgen.net/badge/Obsidian/Notes/purple)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
