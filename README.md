@@ -21,7 +21,7 @@ A professional with a diverse background spanning law, sales management and unio
 ![Spring](https://badgen.net/badge/Spring/framework%20backend/green?icon=spring)
 ![PHP](https://badgen.net/badge/PHP/server-side%20language/blue?icon=php)
 ![Angular](https://badgen.net/badge/Angular/frontend/red?icon=angular)
-![PrimeNG](https://badgen.net/badge/PrimeNG/UI/red?icon=prime)
+![PrimeNG](https://badgen.net/badge/PrimeNG/Angular%20UI/red?icon=prime)
 ![Tailwind CSS](https://badgen.net/badge/Tailwind%20CSS/styling/cyan?icon=tailwindcss)
 ![Bootstrap](https://badgen.net/badge/Bootstrap/styling/purple?icon=bootstrap)
 ![Cypress](https://badgen.net/badge/Cypress/testingE2E/green?icon=cypress)
