@@ -12,7 +12,7 @@ A professional with a diverse background spanning law, sales management and unio
 
 ### 🛠 Tech Stack
 
-![JavaScript](https://badgen.net/badge/JavaScript/JavaScript/F7DF1E?icon=javascript)
+![JavaScript](https://badgen.net/badge/JavaScript/F7DF1E?icon=javascript)
 ![Java](https://badgen.net/badge/Java/Java/ED8B0D?icon=java)
 ![Hibernate](https://badgen.net/badge/Hibernate/Hibernate/59666C?icon=hibernate)
 ![Tomcat](https://badgen.net/badge/Tomcat/Tomcat/F8DC75?icon=apachetomcat)
