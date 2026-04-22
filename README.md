@@ -16,6 +16,7 @@ A professional with a diverse background spanning law, sales management and unio
 ![CSS3](https://badgen.net/badge/CSS3/styling/blue?icon=css)
 ![JavaScript](https://badgen.net/badge/JavaScript/scripting/yellow?icon=javascript)
 ![Java](https://badgen.net/badge/Java/backend/orange?icon=java)
+![RESTful](https://badgen.net/badge/RESTful/API/blue?icon=api)
 ![Hibernate](https://badgen.net/badge/Hibernate/ORM/gray?icon=hibernate)
 ![Apache Tomcat](https://badgen.net/badge/Apache%20Tomcat/server/yellow?icon=apache)
 ![Spring](https://badgen.net/badge/Spring/backend%20framework/green?icon=spring)
