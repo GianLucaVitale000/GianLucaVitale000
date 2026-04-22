@@ -32,7 +32,6 @@ A professional with a diverse background spanning law, sales management and unio
 
 ### ⚙️ Tools
 ![Git](https://badgen.net/badge/Git/Version/orange?icon=git)
-![SourceTree](https://badgen.net/badge/SourceTree/GUI/blue?icon=sourcetree)
 ![Figma](https://badgen.net/badge/Figma/Design/pink?icon=figma)
 ![Draw.io](https://badgen.net/badge/Draw.io/Diagrams/orange?icon=diagramsdotnet)
 ![LaTeX](https://badgen.net/badge/LaTeX/Typesetting/blue?icon=latex)
