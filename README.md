@@ -12,6 +12,17 @@ A professional with a diverse background spanning law, sales management and unio
 
 ### 🛠 Tech Stack
 
+![JavaScript](https://badgen.net/badge/JavaScript/JavaScript/F7DF1E?icon=javascript)
+![Java](https://badgen.net/badge/Java/Java/ED8B0D?icon=java)
+![Hibernate](https://badgen.net/badge/Hibernate/Hibernate/59666C?icon=hibernate)
+![Tomcat](https://badgen.net/badge/Tomcat/Tomcat/F8DC75?icon=apachetomcat)
+![Spring](https://badgen.net/badge/Spring/Spring/6DB33F?icon=spring)
+![PHP](https://badgen.net/badge/PHP/PHP/777BB4?icon=php)
+![Angular](https://badgen.net/badge/Angular/Angular/DD0031?icon=angular)
+![Cypress](https://badgen.net/badge/Cypress/Cypress/17202C?icon=cypress)
+![MySQL](https://badgen.net/badge/MySQL/MySQL/4479A1?icon=mysql)
+![Redis](https://badgen.net/badge/Redis/Redis/DC382D?icon=redis)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
