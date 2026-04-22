@@ -29,7 +29,7 @@ A professional with a diverse background spanning law, sales management and unio
 ![Cypress](https://badgen.net/badge/Cypress/testingE2E/green?icon=cypress)
 ![MySQL](https://badgen.net/badge/MySQL/RDBMS/blue?icon=mysql)
 ![Redis](https://badgen.net/badge/Redis/NoSql/red?icon=redis)
-![Cassandra](https://badgen.net/badge/Cassandra/NoSql/blue?icon=apache)
+![Cassandra](https://badgen.net/badge/Cassandra/NoSQL/blue?icon=apachecassandra)
 ![MongoDB](https://badgen.net/badge/MongoDB/NoSql/green?icon=mongodb)
 
 ### ⚙️ Tools
