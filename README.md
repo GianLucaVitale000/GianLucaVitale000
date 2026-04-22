@@ -37,7 +37,6 @@ A professional with a diverse background spanning law, sales management and unio
 ![Eclipse](https://badgen.net/badge/Eclipse/IDE/orange?icon=eclipse)
 ![IntelliJ IDEA](https://badgen.net/badge/IntelliJ%20IDEA/IDE/blue?icon=intellijidea)
 ![VS Code](https://badgen.net/badge/VS%20Code/IDE/blue?icon=vscode)
-![Workbench](https://badgen.net/badge/Workbench/Database/blue?icon=database)
 ![Git](https://badgen.net/badge/Git/Version/orange?icon=git)
 ![Figma](https://badgen.net/badge/Figma/Design/pink?icon=figma)
 ![Draw.io](https://badgen.net/badge/Draw.io/Diagrams/orange?icon=diagramsdotnet)
