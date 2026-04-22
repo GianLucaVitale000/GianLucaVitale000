@@ -11,31 +11,6 @@ A professional with a diverse background spanning law, sales management and unio
 ### Skills
 
 ### 🛠 Tech Stack
-![HTML5](https://badgen.net/badge/HTML5/HTML5/orange?icon=html5)
-![CSS3](https://badgen.net/badge/CSS3/CSS3/blue?icon=css3)
-![JavaScript](https://badgen.net/badge/JavaScript/JS/yellow?icon=javascript)
-![Java](https://badgen.net/badge/Java/Java/red?icon=java)
-![Hibernate](https://badgen.net/badge/Hibernate/ORM/green?icon=hibernate)
-![Tomcat](https://badgen.net/badge/Tomcat/Server/blue?icon=apache)
-![Spring](https://badgen.net/badge/Spring/Framework/green?icon=spring)
-![PHP](https://badgen.net/badge/PHP/PHP/purple?icon=php)
-![Angular](https://badgen.net/badge/Angular/v17/red?icon=angular)
-![PrimeNG](https://badgen.net/badge/PrimeNG/UI/orange?icon=angular)
-![Tailwind](https://badgen.net/badge/Tailwind/CSS/blue?icon=tailwindcss)
-![Bootstrap](https://badgen.net/badge/Bootstrap/v5/purple?icon=bootstrap)
-![Cypress](https://badgen.net/badge/Cypress/Testing/green?icon=cypress)
-![MySQL](https://badgen.net/badge/MySQL/Database/blue?icon=mysql)
-![Redis](https://badgen.net/badge/Redis/Cache/red?icon=redis)
-![Cassandra](https://badgen.net/badge/Cassandra/NoSQL/yellow?icon=apachecassandra)
-![MongoDB](https://badgen.net/badge/MongoDB/NoSQL/green?icon=mongodb)
-
-### ⚙️ Tools
-![Git](https://badgen.net/badge/Git/Version/orange?icon=git)
-![SourceTree](https://badgen.net/badge/SourceTree/GUI/blue?icon=sourcetree)
-![Figma](https://badgen.net/badge/Figma/Design/pink?icon=figma)
-![Draw.io](https://badgen.net/badge/Draw.io/Diagrams/orange?icon=diagramsdotnet)
-![LaTeX](https://badgen.net/badge/LaTeX/Typesetting/blue?icon=latex)
-![Obsidian](https://badgen.net/badge/Obsidian/Notes/purple?icon=obsidian)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -54,12 +29,14 @@ A professional with a diverse background spanning law, sales management and unio
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 
+### ⚙️ Tools
+![Git](https://badgen.net/badge/Git/Version/orange?icon=git)
+![SourceTree](https://badgen.net/badge/SourceTree/GUI/blue?icon=sourcetree)
+![Figma](https://badgen.net/badge/Figma/Design/pink?icon=figma)
+![Draw.io](https://badgen.net/badge/Draw.io/Diagrams/orange?icon=diagramsdotnet)
+![LaTeX](https://badgen.net/badge/LaTeX/Typesetting/blue?icon=latex)
+![Obsidian](https://badgen.net/badge/Obsidian/Notes/purple?icon=obsidian)
 
 ### Socials
 
